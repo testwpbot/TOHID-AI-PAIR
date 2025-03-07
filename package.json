@@ -9,8 +9,8 @@
   },
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name qasim",
-    "stop": "pm2 stop qasim",
-    "restart": "pm2 restart qasim",
+    "stop": "pm2 stop tohid",
+    "restart": "pm2 restart tohid",
     "dev": "nodemon index.js"
   },
   "keywords": [
